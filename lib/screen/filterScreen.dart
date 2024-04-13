@@ -22,7 +22,7 @@ class _FilterScreenState extends State<FilterScreen> {
         title: Text(
           "Фильтр",
           style: TextStyle(
-            fontWeight: FontWeight.bold, // сделать текст жирным
+            fontWeight: FontWeight.bold, 
           ),
         ),
       ),

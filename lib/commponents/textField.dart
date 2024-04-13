@@ -26,19 +26,19 @@ class CustomTextField extends StatelessWidget {
           border: OutlineInputBorder(
             borderRadius: BorderRadius.circular(0.0),
             borderSide: BorderSide(
-              color: Colors.black, // цвет рамки по умолчанию
+              color: Colors.black, 
             ),
           ),
           focusedBorder: OutlineInputBorder(
             borderRadius: BorderRadius.circular(0.0),
             borderSide: BorderSide(
-              color: Colors.black, // цвет рамки при фокусе
+              color: Colors.black, 
             ),
           ),
           enabledBorder: OutlineInputBorder(
             borderRadius: BorderRadius.circular(0.0),
             borderSide: BorderSide(
-              color: Colors.black, // цвет рамки, когда поле активно, но не в фокусе
+              color: Colors.black, 
             ),
           ),
         ),

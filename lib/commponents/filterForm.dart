@@ -18,7 +18,7 @@ class FilterForm extends StatefulWidget {
 
 class _FilterFormState extends State<FilterForm> {
   String selectedRegion =
-      "Не выбрано"; // Изначальное значение выбранного региона
+      "Не выбрано"; 
 
   @override
   Widget build(BuildContext context) {
@@ -39,7 +39,7 @@ class _FilterFormState extends State<FilterForm> {
           Container(
             decoration: BoxDecoration(
               border: Border.all(
-                color: Colors.black, // Черный цвет обводки
+                color: Colors.black,
               ),
               borderRadius: BorderRadius.circular(0.0),
             ),

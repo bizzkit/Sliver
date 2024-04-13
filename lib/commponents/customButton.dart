@@ -35,7 +35,7 @@ class SearchButton extends StatelessWidget {
             style: TextStyle(
               fontSize: 16.0,
               fontWeight: FontWeight.bold,
-              color: Colors.white, // Цвет текста кнопки
+              color: Colors.white, 
             ),
           ),
         ),
